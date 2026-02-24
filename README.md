@@ -1,2 +1,2 @@
 # Formularios
-# Selección de la paleta de colores
+Selección de la paleta de colores
